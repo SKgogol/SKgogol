@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SKgogol
+- 👋 Hi, I’m @Sounak
 - 👀 I’m interested in coding .
 - 🌱 I’m currently learning C++ language.
 - 💞️ I’m also interested in football and Table tennis .
